@@ -1,0 +1,10 @@
+c:\users\leo\source\repos\4lesson\4lesson\obj\Debug\netcoreapp2.0\4lesson.csproj.CoreCompileInputs.cache
+c:\users\leo\source\repos\4lesson\4lesson\obj\Debug\netcoreapp2.0\4lesson.AssemblyInfoInputs.cache
+c:\users\leo\source\repos\4lesson\4lesson\obj\Debug\netcoreapp2.0\4lesson.AssemblyInfo.cs
+c:\users\leo\source\repos\4lesson\4lesson\bin\Debug\netcoreapp2.0\4lesson.deps.json
+c:\users\leo\source\repos\4lesson\4lesson\bin\Debug\netcoreapp2.0\4lesson.runtimeconfig.json
+c:\users\leo\source\repos\4lesson\4lesson\bin\Debug\netcoreapp2.0\4lesson.runtimeconfig.dev.json
+c:\users\leo\source\repos\4lesson\4lesson\bin\Debug\netcoreapp2.0\4lesson.dll
+c:\users\leo\source\repos\4lesson\4lesson\bin\Debug\netcoreapp2.0\4lesson.pdb
+c:\users\leo\source\repos\4lesson\4lesson\obj\Debug\netcoreapp2.0\4lesson.dll
+c:\users\leo\source\repos\4lesson\4lesson\obj\Debug\netcoreapp2.0\4lesson.pdb
